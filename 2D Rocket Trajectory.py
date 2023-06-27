@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 27 21:42:24 2023
-
-@author: alexc
-
-notes: to ensure same accuracy, the greater the length of time, the greater N must be (e.g. timex2 requires Nx2 points)
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
