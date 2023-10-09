@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import matplotlib.ticker as ticker
 
+#test commit
+
 #f1,f2,f3,f4 planet only (no moon):
 def dvxdt(t,x,y,vx,vy,M):
     """Computes dvx/dt (acceleration in x direction)
